@@ -22,3 +22,4 @@ Input Total Marks and Marks Obtained.
 Click the "Calculate" button to get the percentage.
 The result will be displayed below the button.
 That's it! You've successfully installed and run the Percentage Calculator Python App. Enjoy calculating percentages effortlessly!
+![Screenshot 2024-02-14 145557](https://github.com/Xenaquas/Percentage-Calculator-Python-App/assets/136635514/b69bf1a3-134d-4c3f-978f-e3d4dfbe13aa)
